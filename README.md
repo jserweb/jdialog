@@ -1,6 +1,6 @@
 # jdialog
 jquery对话框
-1.使用时jdialog.js和skin在同一文件夹下
+1.使用时确保jdialog.js和skin在同一文件夹下
 2.先引用jquery
 3.对话框使用方法
   $.$alert("提示内容")
